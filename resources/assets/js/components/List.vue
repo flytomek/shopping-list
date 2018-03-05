@@ -72,7 +72,7 @@ export default {
           console.log("stored");
           this.items.push(response.data);
           newItem.name = "";
-          quantity.quantity = null;
+          newItem.quantity = null;
         })
         .catch(e => {
           console.log(e);
