@@ -4,6 +4,10 @@ Basic Laravel 5.6 + VUE 2.5 with axios CRUD application.
 
 It uses Laravel for API and Vue for front-end.
 
+## Demo
+
+![Vue + Laravel CRUD app](https://media.giphy.com/media/55kBa6JweKWSc1m5Zx/giphy.gif)
+
 ## Installation
 
 - Clone repository
@@ -30,4 +34,4 @@ php artisan db:seed
 npm install
 npm run watch
 ```
-- Serve application using Valet, Homestead or just `php artisan serve`
+- Serve application. You may use Valet, Homestead or just `php artisan serve`
